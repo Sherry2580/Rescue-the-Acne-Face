@@ -3,20 +3,16 @@
 - **Training**: `train_yolo.ipynb`
 - **Inference**: `inference_yolo.ipynb`
 
----
-
 ## 資料來源
 位於acne2noacne資料夾內
 - **`trainA`, `testA`**: 有痘痘的照片（挑過），來自 [Kaggle Dataset](https://www.kaggle.com/datasets/manuelhettich/acne04)。
 
 - YOLO模型訓練資料: 可於 Roboflow Universe [acne-new Image Dataset](https://universe.roboflow.com/buyumedatasets/acne-new/dataset/36) 上找到。
 
----
 
 ## 標記資料夾
 - **`trainA_label`, `testA_label`**: YOLO模型的標記結果 (.txt格式)。
 
----
 
 ## 標記資料欄位說明
 
@@ -28,7 +24,6 @@
 
 詳細說明可參考 [這篇文章](https://blog.cavedu.com/2019/07/25/yolo-identification-model/)。
 
----
 
 ## Conf 挑選
 
