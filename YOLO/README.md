@@ -1,4 +1,4 @@
-# YOLO v8 標記結果
+# YOLO v8
 ## 使用 YOLO
 - **Training**: `train_yolo.ipynb`
 - **Inference**: `inference_yolo.ipynb`
