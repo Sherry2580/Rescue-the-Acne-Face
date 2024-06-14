@@ -11,4 +11,4 @@
 ### 4. 原始圖片與 mask image 送進 Inpainting model 產生結果存入(save_path)
 
 ## 參考連結
-[Inpainting]: https://huggingface.co/docs/diffusers/using-diffusers/inpaint 
+### https://huggingface.co/docs/diffusers/using-diffusers/inpaint 
