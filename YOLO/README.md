@@ -26,13 +26,13 @@
 ## Conf 挑選
 
 - **原始照片**
-![原始照片](example/levle0_1.jpg){width="30%" align="center"}  
+![原始照片](example/levle0_1.jpg){width="30%"}  
 
 - **conf > 0.01**:
-  ![conf > 0.01](example/levle0_1_0.01.jpg){width="30%" align="center"}  
+  ![conf > 0.01](example/levle0_1_0.01.jpg){width="30%"}  
 
 - **conf > 0.1**:
-  ![conf > 0.1](example/levle0_1_0.1.jpg){width="30%" align="center"}  
+  ![conf > 0.1](example/levle0_1_0.1.jpg){width="30%"}  
 
 - **conf > 0.2**:
-  ![conf > 0.2](example/levle0_1_0.2.jpg){width="30%" align="center"}  
+  ![conf > 0.2](example/levle0_1_0.2.jpg){width="30%"}  
