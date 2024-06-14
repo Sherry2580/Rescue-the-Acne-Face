@@ -1,10 +1,13 @@
 # YOLO v8 標記結果
+## 使用 YOLO
+- **Training**: `train_yolo.ipynb`
+- **Inference**: `inference_yolo.ipynb`
 
 ## 資料來源
 位於acne2noacne資料夾內
 - **`trainA`, `testA`**: 有痘痘的照片（挑過），來自 [Kaggle Dataset](https://www.kaggle.com/datasets/manuelhettich/acne04)。
 
-- **YOLO模型訓練資料**: 可於 Roboflow Universe [acne-new Image Dataset](https://universe.roboflow.com/buyumedatasets/acne-new/dataset/36) 上找到。
+- YOLO模型訓練資料: 可於 Roboflow Universe [acne-new Image Dataset](https://universe.roboflow.com/buyumedatasets/acne-new/dataset/36) 上找到。
 
 ## 標記資料夾
 - **`trainA_label`, `testA_label`**: YOLO模型的標記結果 (.txt格式)。
@@ -25,14 +28,14 @@
 
 ## Conf 挑選
 
-- **原始照片**
-![原始照片](example/levle0_1.jpg){width="30%"}  
+- **原始照片**  
+<img src="example/levle0_1.jpg" width="40%">
 
 - **conf > 0.01**:
-  ![conf > 0.01](example/levle0_1_0.01.jpg){width="30%"}  
+<img src="example/levle0_1_0.01.jpg" width="40%">
 
 - **conf > 0.1**:
-  ![conf > 0.1](example/levle0_1_0.1.jpg){width="30%"}  
+<img src="example/levle0_1_0.1.jpg" width="40%">
 
 - **conf > 0.2**:
-  ![conf > 0.2](example/levle0_1_0.2.jpg){width="30%"}  
+<img src="example/levle0_1_0.2.jpg" width="40%">
