@@ -11,6 +11,7 @@
 
 
 ## 標記資料夾
+位於acne2noacne資料夾內
 - **`trainA_label`, `testA_label`**: YOLO模型的標記結果 (.txt格式)。
 
 
