@@ -12,6 +12,9 @@
 
 - **Result**: 問卷分析的方式與過程。
 
+## Method Overview
+![Method Overview](./pix2pix/samples/method.png)
+
 ## Result
 以下展示我們使用不同方法的結果對比：
 
