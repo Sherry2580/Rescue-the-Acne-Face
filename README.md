@@ -6,7 +6,9 @@
 以下簡單說明每個資料夾內的方法與用途:
 - **YOLO**: 含有YOLO v8我們的使用方式與說明
 
-- **Inpainting**: 含有inpainting方法的使用方式與流程。
+- **Inpainting**: 含有inpainting的使用方式與流程。
+
+- **Filter**: 含有Filter的使用與說明
 
 - **pix2pix**: 含有資料前處理與pix2pix模型。
 
