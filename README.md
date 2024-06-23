@@ -14,6 +14,10 @@
 
 - **Result**: 問卷分析的方式與過程。
 
+- **RescueAcneFace_Report.pdf**: 書面報告。
+
+- **RescueAcneFace_Oral.pdf**: 簡報。
+
 ## Method Overview
 ![Method Overview](./pix2pix/samples/method.png)
 
